@@ -3,8 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: true
-display_categories: [work, fun]
+nav: false
+display_categories: [academic] #[work, fun]
 horizontal: false
 ---
 <div class="projects">
