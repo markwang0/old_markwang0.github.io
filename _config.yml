@@ -51,7 +51,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 cv: true
-credly_username: mark-wang.6767b435
+credly_username: # mark-wang.6767b435
 github_username: markwang0
 gitlab_username: # your GitLab user name
 twitter_username: __markwang
