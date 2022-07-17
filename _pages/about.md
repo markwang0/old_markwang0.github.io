@@ -24,7 +24,7 @@ I'm an NSF Graduate Research Fellow in the [Passalacqua Group](https://sites.goo
 
 I develop efficient coastal flood models for rapid inundation mapping. I am interested in compound hazards, GIS, and high-performance computing.
 
-Currently I am pursuing a Ph.D. in Civil Engineering at UT Austin, where I earned an M.S.E. in May of 2022.
+Currently I am pursuing a Ph.D. in Civil Engineering at UT Austin, where I earned an M.S. in May of 2022.
 
 Before graduate school I was a green infrastructure engineer in the private and public sectors as well as a 2019-20 Fulbright Fellow.
 
