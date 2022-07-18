@@ -85,13 +85,13 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: mark  # your blog must have a name for it to show up in the nav bar
+blog_name: blog  # your blog must have a name for it to show up in the nav bar
 # blog_description: a simple whitespace theme for academics
-# permalink: /blog/:year/:title/
+permalink: /blog/:year/:title/
 
 # Pagination of blogs
-# pagination:
-  # enabled: true
+pagination:
+  enabled: true
 
 # Comments
 # disqus_shortname: al-folio # put your disqus shortname
@@ -138,8 +138,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - blog
-  - _posts
+  # - blog
+  # - _posts
 keep_files:
   - CNAME
   - .nojekyll
