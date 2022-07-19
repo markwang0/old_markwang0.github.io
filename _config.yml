@@ -69,7 +69,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-rss_icon: false
+rss_icon: true
 
 contact_note: >
   Center for Water and the Environment, Room 44<br>
