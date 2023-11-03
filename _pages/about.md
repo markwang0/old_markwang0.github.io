@@ -20,11 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Mark (王凯章).
 
-I'm an NSF Graduate Research Fellow in the [Passalacqua Group](https://sites.google.com/site/passalacquagroup) at the University of Texas at Austin.
+I'm a Ph.D. Candidate in the [PassaH2O Group](https://sites.google.com/site/passalacquagroup) at the University of Texas at Austin.
 
-I develop efficient coastal flood models for rapid inundation mapping. I am interested in compound hazards, GIS, and high-performance computing.
-
-Currently I am pursuing a Ph.D. in Civil Engineering at UT Austin, where I earned an M.S. in May of 2022.
+I am interested in flood inundation mapping, compound hazards, GIS, and high-performance computing.
 
 Before graduate school I was a green infrastructure engineer in the private and public sectors as well as a 2019-20 Fulbright Fellow.
 
