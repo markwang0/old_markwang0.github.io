@@ -24,8 +24,7 @@ I'm a Ph.D. Candidate in the [PassaH2O Group](https://sites.google.com/site/pass
 
 I am interested in flood inundation mapping, compound hazards, GIS, and high-performance computing.
 
-Before graduate school I was a green infrastructure engineer in the private and public sectors as well as a 2019-20 Fulbright Fellow.
-
+Before graduate school I worked as a green infrastructure engineer in the private and public sectors.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
